@@ -2,8 +2,6 @@
 Filename: practicals/practicals_solver.py
 Purpose: Solve all 12 syllabus practicals for CSM354 Machine Learning-I with step-by-step math and explanations.
 Explanation:
-- The script is fully self-contained and does not rely on external imports except standard libraries (numpy, pandas, sklearn).
-- Execute it directly using: `python practicals/practicals_solver.py`
 """
 
 import numpy as np
