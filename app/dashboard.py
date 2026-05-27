@@ -1,12 +1,6 @@
 """
 Filename: app/dashboard.py
 Purpose: Create an interactive Streamlit dashboard for visualizing and analyzing comments.
-Explanation:
-- Configures a premium dark-themed layout with custom CSS.
-- Integrates EDA visualizations (histograms, heatmaps, scatter plots).
-- Features real-time single-comment classification and batch predictions.
-- Renders 2D PCA cluster spaces.
-- Displays AutoML and GenAI Advisor suggestions.
 """
 
 import os
